@@ -1,12 +1,9 @@
 img.claro{
   display: block;
   margin: 0px auto;
-  background-color: rgba(255,255,255,0.15);
-  width: 30px;
-  padding: 5px;
-  -webkit-border-radius: 50px;
-  -webkit-box-shadow: 0px 0px 0px 15px rgba(255,255,255,0);
-  -webkit-transition: box-shadow 0.4s;}
+  width: 50px;
+  padding-top: 5px;
+ }
 
 
 /*!
